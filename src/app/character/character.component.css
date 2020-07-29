@@ -1,0 +1,20 @@
+.character {
+  position: absolute;
+  background: cadetblue;
+  transform: rotate(20deg);
+}
+.arm {
+  width: 5px;
+  height: 2px;
+  background-color: blue;
+}
+.arm-left {
+  justify-content: center;
+}
+.arm-right {}
+
+.body {
+  width: 20px;
+  height: 20px;
+  background-color: black;
+}
